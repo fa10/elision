@@ -23,7 +23,7 @@
 
 
             <!-- Home Section -->
-            <section class="page-section bg-dark-alfa-90" data-background="images/full-width-images/section-bg-9.jpg">
+            <section class="small-section bg-dark-alfa-90" data-background="images/full-width-images/section-bg-9.jpg">
                 <div class="container relative">
 
                     <div class="align-center">
@@ -87,6 +87,107 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="row multi-columns-row">
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/searchmap.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 6</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 29.09.2014 to Friday 3.10.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     Today I still worked on the google maps where I added markers for the houses and changes the style so it looked good. But there is still a lot to cover here.
+                                     </p>
+                                     <p class="small">
+Continued to work on the google map for the page. To be dynamic and work properly. It gives some difficulty, but I learn for that. Need to make a lot of research.                                     </p>
+                                 </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/maparea.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 5</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 22.09.2014 to Friday 26.09.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     Started to import the map and also styled the map so it fits to the new design. And there is some small problem about the countries.
+                                     </p>
+                                     <p class="small">
+                                     Worked on the PropertySearch page with the map on this. It is using the Google Maps API it is actually really useful.
+                                     </p>
+                                 </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/alldes.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 4</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 15.09.2014  to Friday 19.09.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     Today I started on the “All destinations” partial on the front page. Started designed it so it looks good.
+                                     </p>
+                                     <p class="small">
+                                     Finished styling the “All destinations” partial and completely working with data and different tabs.
+                                     </p>
+                                 </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
 
                         <div class="col-sm-6 col-md-4 col-lg-4">
 
@@ -99,18 +200,21 @@
                                 </div>
 
                                 <!-- Post Title -->
-                                <h2 class="blog-item-title">Week 2</h2>
+                                <h2 class="blog-item-title">Week 3</h2>
 
 
                                 <div class="blog-item-data mb-10">
-                                Monday 1.09.2014
+                                Monday 8.09.2014 to Friday 12.09.2014
                                 </div>
 
 
                                 <!-- Text Intro -->
                                 <div class="blog-item-body">
                                     <p class="small">
-Today I finished the CMS pages content. So now it is looking much better using the Bootstrap .css. After I finished that I started to implement the new design that was made for the Campaya frontend that’s a big project a lot of stuff that need to be change.
+                                    Today I worked on the search partial on the front page for the new design. I made the design responsive using bootstrap. And redesigned the search boxed.
+                                    </p>
+                                    <p class="small">
+                                    I also started on another partial on the front page where we have some “Popular Destination” using a carousel so I implemented it with the data and fixed the design.
                                     </p>
                                 </div>
 
