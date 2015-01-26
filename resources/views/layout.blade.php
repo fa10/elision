@@ -94,6 +94,105 @@
 
                                  <!-- Image -->
                                  <div class="blog-media relative">
+                                         <img src="images/reponsive.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 9</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 20.10.2014 to Friday 24.10.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week i started working on some mobile responsive design, so the site is running and showing without some errors. There is a lot to fix and redo.
+                                    </p>
+                                     <p class="small">
+                                     And I "finished" for now the responsive design on the property search page and now it is responsive and looking better of course it is never done it can always be better.
+                                    </p>
+                            </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/jquery.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 8</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 13.10.2014 to Friday 17.10.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I started to style and make functionality to the advanced search filter on the “Property Search”. There is a lot of CSS and JavaScript.
+                                    </p>
+                                     <p class="small">
+                                     I added some JavaScript to the filter so it can be rolled out and rolled in with a button. Then I need to style it and make it responsive.
+                                    </p>
+                            </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/searchpage.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 7</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 6.10.2014  to Friday 10.10.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+This week I continue my work on the map for the search page. And I am going to leave as it is for now so I can move on and implement the design for the search site.                                     </p>
+                                     <p class="small">
+I also started to make the whole “Property search” site responsive and implement the design so it looks good. Still a lot to cover. </p>                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
                                          <img src="images/searchmap.png" alt="" />
                                  </div>
 
@@ -321,7 +420,6 @@ Today I finished the CMS pages content. So now it is looking much better using t
                             <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
                             <a href="#" title="Google+" target="_blank"><i class="fa fa-google-plus"></i></a>
                             <a href="#" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
-                            <a href="#" title="Pinterest" target="_blank"><i class="fa fa-pinterest"></i></a>
                             <a href="#" title="E-mail" target="_blank"><i class="fa fa-envelope"></i></a>
                         </div>
                     </div>

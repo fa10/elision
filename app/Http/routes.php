@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', 'StaticPagesController@index');
+Route::get('blog', 'StaticPagesController@blog');
 
 Route::get('home', 'HomeController@index');
 

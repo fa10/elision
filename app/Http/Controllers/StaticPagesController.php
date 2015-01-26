@@ -5,7 +5,7 @@ use App\Http\Controllers\Controller;
 
 class StaticPagesController extends Controller {
 
-	public function index()
+	public function blog()
 	{
 		return view('layout');
 	}
