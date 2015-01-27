@@ -8,14 +8,8 @@
         <meta name="author" content="Fatih Kupelikilinc">
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-        <!-- Favicons -->
-        <link rel="shortcut icon" href="images/favicon.png">
-        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
         <!-- CSS -->
         <link rel="stylesheet" href="css/app.css">
-
     </head>
     <body class="appear-animate">
         <!-- Page Wrap -->
@@ -23,7 +17,7 @@
 
 
             <!-- Home Section -->
-            <section class="small-section bg-dark-alfa-90" data-background="images/full-width-images/section-bg-9.jpg">
+            <section class="small-section bg-dark-alfa-90" data-background="">
                 <div class="container relative">
 
                     <div class="align-center">
@@ -53,7 +47,7 @@
                 <!-- Logo ( * your text or image into link tag *) -->
                 <div class="nbc-logo-wrap local-scroll">
                     <a href="#top" class="nbc-logo">
-                        <img src="images/logo-white.png" width="80" height="27" alt="" />
+                        <img src="images/logo.png" width="80" height="27" alt="" />
                     </a>
                 </div>
 
@@ -94,6 +88,410 @@
 
                                  <!-- Image -->
                                  <div class="blog-media relative">
+                                         <img src="images/html-css.jpg" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 21</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 19.1.2015 to Friday 23.1.2015
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                    </p>
+                                     <p class="small">
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/html-css.jpg" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 20</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 12.1.2015 to Friday 16.1.2015
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I started to style the Google Custom Search in order to fit into the new design and also make it prettier. Then I had to fix some problems with the enquiry modal some validation both server and client side. Also some small styling here and there.
+                                    </p>
+                                     <p class="small">
+                                     I worked on some “Theme” implementation like “Skiing” & “Golf”. Needed to add for the “.dk” and co.uk site. Then I fixed some problem with “property search page”. Some loading stuff. We also did go LIVE with the www.campaya.co.uk the british site this week.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/html-css.jpg" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 19</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 5.1.2015 to Friday 9.1.2015
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I worked on some small styling around the whole pages, because we want to go LIVE with the Swedish site. And we did go live, but of course a lot to cover and fix so we could go LIVE with the swedish version of the site. www.campaya.se
+                                    </p>
+                                     <p class="small">
+                                     I also fixed some problems with the CMS pages and restyled them to fit into the new design. Then I also styled the Enquiry Modal and made some validation.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/poparea.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 18</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 29.12.2014 to Friday 2.1.2015
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I worked on the front page in order to restyle the “Popular areas” I made it more fitting into the design and responsive. Removed the carousel because it was annoying and instead made a button that’s loads more areas.
+                                    </p>
+                                     <p class="small">
+                                     I also worked on some styling issues and fixes on the property and booking site. So there was a lot to do and I almost finished it.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/julefrokost.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 17</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 15.12.2014 to Friday 19.12.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                    </p>
+                                     <p class="small">
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/julefrokost.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 16</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 8.12.2014 to Friday 12.12.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week i continued working the searchfilter because we have a lot of diffrent states it should respond to and we had make some big changes.
+                                    </p>
+                                     <p class="small">
+                                     At the end of this week the Friday we had our Christmas Dinner first we started at the office got some beers and we hold a reception for the other companys also. Then later we meet at a restaurant got some good food and had a great night.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/searchfilter.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 15</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 1.12.2014 to Friday 5.12.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                    This week on the internship I started on the filter on the property search page so it will return the properties that full fill the requirements set by the user, it is a little bit hard to start when you are going to redo some code that is already implemented and not working. So today I managed to start this task.
+                                    </p>
+                                     <p class="small">
+                                     We also had the usual meeting at 10 o clock talked about what we need to finish and when it should be done, because we have a deadline on or a goal that we want to be live with the page on the 1 of January. So I started working of course also before the meeting and I used the whole day to work on the filter I got something to work, but it is not completed.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/mapservice.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 14</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 24.11.2014 to Friday 28.11.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I managed to finish the service that returns the specific property as a Partial View in this way we can use the view that is there and return it, I also managed to make a functionality that check if the property is loaded and then move it at the top of the list.
+                                    </p>
+                                     <p class="small">
+                                     I also refactored a lot on the map changed and improved some functionality like check if it is loaded, because there was some bugs from yesterday. I also managed to add a DOM listener that listen if a property is hovered by the user mark it on the map. And worked on some improvement as well.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/searchmap.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 13</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 17.11.2014 to Friday 21.11.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I was thinking that I needed to make a service that returns some JSON data so we can load the properties on the map, but then Claus said that it should be the properties that should control the map not vice versa, so needed to start implement it different and I got a lot of problems the whole day because of some events and so on.
+                                    </p>
+                                     <p class="small">
+                                     This week was also special. I started as usually to open Visual studio 2013 and begin programming and today I got some success with the map and found some code that I could use again for the new system. I managed to make the hover event so when you hover a marker on the map it will change the marker. And also I got a job offer from my practical place.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/week12.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 12</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 10.11.2014 to Friday 14.11.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I started to retouch some styling on the “property search” page where I started to re style the properties so they are responsive and looks better. I also needed to add some widgets on this page.
+                                    </p>
+                                     <p class="small">
+                                     I worked on these widgets there is two on for “Popular areas” and “Description about area” so I needed to find a place so it would look good with the design. And It gave some problem because of different meanings about how it should look.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/typeahead.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 11</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 3.11.2014 to Friday 7.11.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     This week I started to work on implementation of a typeahead.js some plugin that shows live search and autocomplete. It get data from the server and show some hints for the user. I needed to get data from the server.
+                                    </p>
+                                     <p class="small">
+                                     I finished the implementation of the typeahead.js. And started on the styling of “LIVE PRICE” function on the property site. So it is built with some JavaScript and making a live price with some data input. We discussed the structure of it how it should look and so on.
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
+                                         <img src="images/royalslider.png" alt="" />
+                                 </div>
+
+                                 <!-- Post Title -->
+                                 <h2 class="blog-item-title">Week 10</h2>
+
+
+                                 <div class="blog-item-data mb-10">
+                                 Monday 27.10.2014 to Friday 31.10.2014
+                                 </div>
+
+
+                                 <!-- Text Intro -->
+                                 <div class="blog-item-body">
+                                     <p class="small">
+                                     Started on implementing the new slider called Royal Slider into the system going to use it for the picture viewer. Manage to implemented, but need some styling.
+                                    </p>
+                                     <p class="small">
+                                     I also tested the RoyalSlider completely so it is working 100% responsive and now Claus only need to get bigger images so it will be in higher resolution. Then I also started to style the arrows on the RoyalSlider to some customs arrows.  
+                                    </p>
+                                </div>
+
+
+                             </div>
+                             <!-- End Post -->
+
+                         </div>
+                         <div class="col-sm-6 col-md-4 col-lg-4">
+
+                             <!-- Post -->
+                             <div class="blog-item">
+
+                                 <!-- Image -->
+                                 <div class="blog-media relative">
                                          <img src="images/reponsive.png" alt="" />
                                  </div>
 
@@ -114,7 +512,7 @@
                                      <p class="small">
                                      And I "finished" for now the responsive design on the property search page and now it is responsive and looking better of course it is never done it can always be better.
                                     </p>
-                            </div>
+                                </div>
 
 
                              </div>
