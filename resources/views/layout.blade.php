@@ -66,8 +66,8 @@
 
                     <!-- Social Links -->
                     <div class="nbc-social-links">
-                        <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                        <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/playoati" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/fatihkupkil" target="_blank"><i class="fa fa-twitter"></i></a>
                     </div>
                     <!-- End Social Links -->
 
@@ -813,11 +813,9 @@ Today I finished the CMS pages content. So now it is looking much better using t
                     <!-- Social Links -->
                     <div class="footer-social-links">
                         <div class="social-links tooltip-bot">
-                            <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="#" title="Google+" target="_blank"><i class="fa fa-google-plus"></i></a>
-                            <a href="#" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
-                            <a href="#" title="E-mail" target="_blank"><i class="fa fa-envelope"></i></a>
+                            <a href="https://www.facebook.com/playoati" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://twitter.com/fatihkupkil" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="https://plus.google.com/u/2/114356154335780650833" title="Google+" target="_blank"><i class="fa fa-google-plus"></i></a>
                         </div>
                     </div>
                     <!-- End Social Links -->
