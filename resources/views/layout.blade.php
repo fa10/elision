@@ -47,7 +47,7 @@
                 <!-- Logo ( * your text or image into link tag *) -->
                 <div class="nbc-logo-wrap local-scroll">
                     <a href="#top" class="nbc-logo">
-                        <img src="images/logo.png" width="80" height="27" alt="" />
+                        <img src="images/flogo.png" width="80" height="27" alt="" />
                     </a>
                 </div>
 
@@ -88,7 +88,7 @@
 
                                  <!-- Image -->
                                  <div class="blog-media relative">
-                                         <img src="images/html-css.jpg" alt="" />
+                                         <img src="images/last.png" alt="" />
                                  </div>
 
                                  <!-- Post Title -->
@@ -103,8 +103,7 @@
                                  <!-- Text Intro -->
                                  <div class="blog-item-body">
                                      <p class="small">
-                                    </p>
-                                     <p class="small">
+                                     This week we worked on some fixes on the search page and some small fixes on the reservation page. We also got four new traines that i had to learn the structure of our programming environment. But the main goal for this week was to go LIVE with the danish site. And it was also my last week at the practical placement it has been a really learning full internship. I learned a lot about working environment how to communicate in a professional way and also a lot of programming related experience.
                                     </p>
                                 </div>
 
@@ -120,7 +119,7 @@
 
                                  <!-- Image -->
                                  <div class="blog-media relative">
-                                         <img src="images/html-css.jpg" alt="" />
+                                         <img src="images/customsearch.png" alt="" />
                                  </div>
 
                                  <!-- Post Title -->
