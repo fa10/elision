@@ -10,4 +10,9 @@ class StaticPagesController extends Controller {
 		return view('layout');
 	}
 
+	public function devfam()
+	{
+		return view('home');
+	}
+
 }

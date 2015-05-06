@@ -13,6 +13,8 @@
 
 Route::get('blog', 'StaticPagesController@blog');
 
+Route::get('devfam', 'StaticPagesController@devfam');
+
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
